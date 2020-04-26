@@ -1,8 +1,9 @@
-# Visión Robótica
+# Robotic Vision
 
-Blog de la asignatura de visión robótica.
+Blog of robotic vision course.
 
-* Práctica 1: F1 Sigue Líneas versión en inglés
-https://github.com/SusanaPineda/Sigue_Linea
+* Practice 1: F1 Follow line https://github.com/SusanaPineda/Sigue_Linea
 
-* Práctica 1: F1 Sigue Lineas versión en español https://susanapineda.github.io/Portfolio/sigueLineas.html
+  * Práctica 1: F1 Sigue Lineas versión en español https://susanapineda.github.io/Portfolio/sigueLineas.html
+
+* Practice 2: Cat and mouse game with drones https://github.com/SusanaPineda/drone_cat_mouse
